@@ -1,0 +1,16 @@
+# Ignore dataset
+dataset/
+
+# Python
+__pycache__/
+*.pyc
+venv/
+.env
+
+# IDE
+.idea/
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
