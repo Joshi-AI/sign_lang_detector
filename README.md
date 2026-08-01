@@ -163,15 +163,9 @@ If you'd like to improve this project:
 
 ---
 
-# 📄 License
-
-This project is licensed under the **MIT License**.
-
----
-
 # 👨‍💻 Author
 
-**Patrick**
+Harshit Joshi
 
 If you found this project helpful, consider giving it a ⭐ on GitHub.
 
